@@ -1,0 +1,14 @@
+C:\Users\igdas\source\repos\AntiCheat\AntiCheat\obj\Debug\net8.0\AntiCheat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igdas\source\repos\AntiCheat\AntiCheat\obj\Debug\net8.0\AntiCheat.AssemblyInfoInputs.cache
+C:\Users\igdas\source\repos\AntiCheat\AntiCheat\obj\Debug\net8.0\AntiCheat.AssemblyInfo.cs
+C:\Users\igdas\source\repos\AntiCheat\AntiCheat\obj\Debug\net8.0\AntiCheat.csproj.CoreCompileInputs.cache
+C:\Users\igdas\source\repos\AntiCheat\AntiCheat\bin\Debug\net8.0\AntiCheat.exe
+C:\Users\igdas\source\repos\AntiCheat\AntiCheat\bin\Debug\net8.0\AntiCheat.deps.json
+C:\Users\igdas\source\repos\AntiCheat\AntiCheat\bin\Debug\net8.0\AntiCheat.runtimeconfig.json
+C:\Users\igdas\source\repos\AntiCheat\AntiCheat\bin\Debug\net8.0\AntiCheat.dll
+C:\Users\igdas\source\repos\AntiCheat\AntiCheat\bin\Debug\net8.0\AntiCheat.pdb
+C:\Users\igdas\source\repos\AntiCheat\AntiCheat\obj\Debug\net8.0\AntiCheat.dll
+C:\Users\igdas\source\repos\AntiCheat\AntiCheat\obj\Debug\net8.0\refint\AntiCheat.dll
+C:\Users\igdas\source\repos\AntiCheat\AntiCheat\obj\Debug\net8.0\AntiCheat.pdb
+C:\Users\igdas\source\repos\AntiCheat\AntiCheat\obj\Debug\net8.0\AntiCheat.genruntimeconfig.cache
+C:\Users\igdas\source\repos\AntiCheat\AntiCheat\obj\Debug\net8.0\ref\AntiCheat.dll
